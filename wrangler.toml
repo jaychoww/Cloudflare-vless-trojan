@@ -1,5 +1,5 @@
 name = "vless-workers-pages"
-main = "Vless_workers_pages/nat64套壳版混淆.js"
+main = "Vless_workers_pages/_worker.js"
 compatibility_date = "2024-10-04"
 
 # ====================================================================

@@ -1,0 +1,37 @@
+name = "vless-workers-pages"
+main = "Vless_workers_pages/_worker.js"
+compatibility_date = "2024-10-04"
+
+# 环境变量 - 请修改为你自己的UUID
+[vars]
+uuid = "e594c2ac-961e-44ca-a989-879103c4e58b"  # ⚠️ 请修改为你自己的UUID
+proxyip = ""  # 可选，留空或填写你的proxyip
+
+# 如果需要自定义订阅节点的IP和端口，可以取消下面的注释并修改
+# cdnip = "www.visa.com.sg"
+# ip1 = "www.visa.com"
+# ip2 = "cis.visa.com"
+# ip3 = "africa.visa.com"
+# ip4 = "www.visa.com.sg"
+# ip5 = "www.visaeurope.at"
+# ip6 = "www.visa.com.mt"
+# ip7 = "qa.visamiddleeast.com"
+# ip8 = "usa.visa.com"
+# ip9 = "myanmar.visa.com"
+# ip10 = "www.visa.com.tw"
+# ip11 = "www.visaeurope.ch"
+# ip12 = "www.visa.com.br"
+# ip13 = "www.visasoutheasteurope.com"
+# pt1 = "80"
+# pt2 = "8080"
+# pt3 = "8880"
+# pt4 = "2052"
+# pt5 = "2082"
+# pt6 = "2086"
+# pt7 = "2095"
+# pt8 = "443"
+# pt9 = "8443"
+# pt10 = "2053"
+# pt11 = "2083"
+# pt12 = "2087"
+# pt13 = "2096"
